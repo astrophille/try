@@ -48,6 +48,6 @@ public class CekSuhuPasien {
             System.out.println(); // ini untuk buat jarak antar output suhu pasien
         }
 
-        System.out.println("\nTerima kasih telah menggunakan program Cek Suhu Pasien. Semoga informasi ini bermanfaat untuk memantau kondisi pasien dengan lebih baik.");
+        System.out.println("\nTerima kasih banyakk telah menggunakan program Cek Suhu Pasien. Semoga informasi ini bermanfaat untuk memantau kondisi pasien dengan lebih baik.");
     }
 }
